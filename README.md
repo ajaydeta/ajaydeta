@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm software engineer student in **[Grafika Vocation Hight School](https://smkn4malang.sch.id/)**.
+
+I'm Indonesian 🇮🇩️ and i live in Malang, East Java.
+
+## 🔭 You can find me in:
+
+instagram : [@ajaydeta\_](https://instagram.com/ajaydeta_)  
+twitter : [@jeidenn\_](https://twitter.com/jeidenn_)
 
 <!--
 **ajaydeta/ajaydeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
