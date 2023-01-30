@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm software engineer student in **[Grafika Vocation Hight School](https://smkn4malang.sch.id/)**.
+I'm backend engineer.
 
 I'm Indonesian 🇮🇩️ and i live in Malang, East Java.
 
