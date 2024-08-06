@@ -6,6 +6,7 @@ I'm Indonesian 🇮🇩️ and i live in Malang, East Java.
 
 ## 🔭 You can find me in:
 
+LinkedIn : [www.linkedin.com/in/ajay-deta](https://www.linkedin.com/in/ajay-deta)  
 instagram : [@ajaydeta\_](https://instagram.com/ajaydeta_)  
 twitter : [@jeidenn\_](https://twitter.com/jeidenn_)
 
